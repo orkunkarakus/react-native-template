@@ -2,7 +2,10 @@
   "name": "@mr.karakus/react-native-template",
   "version": "0.0.1",
   "description": "React native template",
-  "private":false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "template",
     "template.config.js"
