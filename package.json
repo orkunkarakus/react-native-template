@@ -1,0 +1,34 @@
+{
+  "name": "@mr.karakus/react-native-template",
+  "version": "0.0.1",
+  "description": "React native template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkunkarakus/react-native-template.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "rn",
+    "template",
+    "react",
+    "native",
+    "template",
+    "orkun",
+    "karakus",
+    "orkunkarakus.com"
+  ],
+  "author": "Orkun Karakus <ork.karakus@gmail.com> (https://orkunkarakus.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orkunkarakus/react-native-template/issues"
+  },
+  "homepage": "https://github.com/orkunkarakus/react-native-template#readme"
+}
